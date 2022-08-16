@@ -50,7 +50,7 @@ Por fim, solidifiquei minha fluência na língua inglesa oferecendo aulas online
   - express.js ★
   - ejs ★
 
-**Prtocolos**
+**Protocolos**
   - http ★
   - socket.io ★
 

@@ -51,8 +51,8 @@ Por fim, solidifiquei minha fluência na língua inglesa oferecendo aulas online
   - ejs ★
 
 **Prtocolos**
-  - HTTP ★
-  - Socket.IO ★
+  - http ★
+  - socket.io ★
 
 **Escala**  
 

@@ -3,11 +3,11 @@ Currículo
 
 ## Resumo
 
-Sou estudante no curso de Sistemas de Computação (UFF), com experiência internacional no setor de RPA como Suporte e inglês fluente. Possuo conhecimentos e prática em UiPath, assim como em tecnologias web por meio de Node JS e Front-End no que tange a HTML, CSS e JavaScript.
+Sou estudante no curso de Sistemas de Computação (UFF), com experiência internacional no setor de RPA como Suporte e inglês fluente. Possuo conhecimentos e prática em UiPath e em tecnologias web como NodeJS, HTML e CSS. 
 
-Tenho um perfil autodidata, pois grande parte das minhas habilidades em Web vieram de cursos no freeCodeCamp e Udemy. Sou analítica e organizada.
+Estou comprometida com o aprendizado e o autodesenvolvimento, pois a maior parte do meu conhecimento veio de estudos autodidatas nas plataformas freeCodeCamp e Udemy. Sou analítica, organizada e uma comunicadora articulada. Eu entendo a importância de ser interativa e gosto de entrar em contato com outras pessoas para o benefício da empresa.
 
-Por fim, solidifiquei minha fluência na língua inglesa oferecendo aulas onlines do idioma.
+Enquanto Suporte de RPA, identifiquei erros de automação e participei de reuniões em inglês nas quais apresentei uma análise do problema e suas possíveis resoluções.
   
 
 ## Dados pessoais

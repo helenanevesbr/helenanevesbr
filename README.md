@@ -18,9 +18,9 @@ Enquanto Suporte de RPA, identifiquei erros de automação e participei de reuni
 **Email:** helenaneves.br@gmail.com  
 **Telefone:** (21) 9 92581498
 
-<p><b>linkedin</b> https://www.linkedin.com/in/hn-web-development/</p>
+<p><b>linkedin:</b> https://www.linkedin.com/in/hn-web-development/</p>
 <p><b>github:</b> https://github.com/helenanevesbr</p>
-<p><b>web-site</b> http://zebrapintada.com.br/</p>
+<p><b>web-site:</b> http://zebrapintada.com.br/</p>
 
 ## Formação
   - Tecnólogo em Sistemas de Computação <sub> (Agosto 2021/Agosto/2024 - UFF EAD)</sub>

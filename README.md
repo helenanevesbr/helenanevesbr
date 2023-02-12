@@ -3,12 +3,11 @@ Currículo
 
 ## Resumo
 
-Sou estudante no curso de Sistemas de Computação (UFF), com experiência internacional no setor de RPA como Suporte e inglês fluente. Possuo conhecimentos e prática em UiPath e em tecnologias web como NodeJS, HTML e CSS. 
+Sou estudante no curso de Sistemas de Computação (UFF), com experiência internacional no setor de RPA como Suporte e inglês fluente. Possuo conhecimentos e prática em tecnologias web como NodeJS, React, HTML e CSS, integradas com bancos de dados como MySQL e MongoDB.  
 
-Estou comprometida com o aprendizado e o autodesenvolvimento, pois a maior parte do meu conhecimento veio de estudos autodidatas nas plataformas freeCodeCamp e Udemy. Sou analítica, organizada e uma comunicadora articulada. Eu entendo a importância de ser interativa e gosto de entrar em contato com outras pessoas para o benefício da empresa.
+Estou comprometida com o aprendizado e o autodesenvolvimento, pois a maior parte do meu conhecimento veio de estudos autodidatas na plataforma Udemy. Sou analítica, organizada e uma comunicadora articulada. Eu entendo a importância de ser interativa e gosto de entrar em contato com outras pessoas para o benefício da empresa. 
 
 Enquanto Suporte de RPA, identifiquei erros de automação e participei de reuniões em inglês nas quais apresentei uma análise do problema e suas possíveis resoluções.
-  
 
 ## Dados pessoais
 
@@ -36,6 +35,23 @@ Enquanto Suporte de RPA, identifiquei erros de automação e participei de reuni
 ### Infosys <sub>(2021 - Presente)</sub>  
  Atua na área de suporte, contribuindo para manutenção e monitoramento de processos de automação.
 
+## Certificações e treinamentos
+ 
+### Curso Completo do Desenvolvedor NodeJS e MongoDB
+ - Criei meu primeiro website com o NodeJS integrado com o banco de dados MySQL 
+ - Desenvolvi uma aplicação em real-time com Socket.IO 
+ - Integrei uma aplicação NodeJS com o banco de dados MongoDB
+ - Projetei uma API RESTful em conjunto com uma aplicação web cliente baseada no Instagram.
+ 
+### Gestão Ágil com Scrum
+ - Analisei os papéis e responsabilidades do Product Owner, Scrum Master e Equipe Scrum
+ - Me familiarizei com os 6 princípios do Scrum
+ - Aprendi sobre as fases de um fluxo Scrum
+
+### React 18 Tutorial and Projects Course (2023)
+ - Desenvolvi minha primeira aplicação com React inspirada na Amazon
+ - Refactorei um aplicação hard-coded para um conteúdo dinâmico
+
 ## Conhecimentos
 
 **Controle de versão**
@@ -43,6 +59,7 @@ Enquanto Suporte de RPA, identifiquei erros de automação e participei de reuni
 
 **Bancos e persistências**
   - mysql ★
+  - mongodb ★
 
 **Linguagens**
   - nodejs (javascript) ★
@@ -55,6 +72,9 @@ Enquanto Suporte de RPA, identifiquei erros de automação e participei de reuni
 **Protocolos**
   - http ★
   - socket.io ★
+
+**Metodologias ágeis**
+  - scrum ★
 
 **Escala**  
 

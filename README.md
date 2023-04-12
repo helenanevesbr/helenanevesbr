@@ -7,7 +7,7 @@ Sou estudante no curso de Sistemas de Computação (UFF), com experiência inter
 
 Estou comprometida com o aprendizado e o autodesenvolvimento, pois a maior parte do meu conhecimento veio de estudos autodidatas na plataforma Udemy. Sou analítica, organizada e uma comunicadora articulada. Eu entendo a importância de ser interativa e gosto de entrar em contato com outras pessoas para o benefício da empresa. 
 
-Enquanto Suporte de RPA, identifiquei erros de automação e participei de reuniões em inglês nas quais apresentei uma análise do problema e suas possíveis resoluções.
+Enquanto Suporte de RPA, atuei na análise técnica de bugs utilizando UiPath Orchestrator e fórmulas avançadas de Excel, resolvi dúvidas e esclarecimentos técnicos dos stakeholders e colaborei na evolução das ferramentas de monitoramento e investigação, proprondo novos recursos e evitando desperdícios.
 
 ## Dados pessoais
 

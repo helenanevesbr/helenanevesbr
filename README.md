@@ -3,26 +3,24 @@ Currículo
 
 ## Resumo
 
-Sou estudante no curso de Sistemas de Computação (UFF), com experiência internacional no setor de RPA como Suporte e inglês fluente. Possuo conhecimentos e prática em tecnologias web como NodeJS, React, HTML e CSS, integradas com bancos de dados como MySQL e MongoDB.  
+Sou estudante no curso de Sistemas de Computação (UFF), estagiando como desenvolvedora back-end na IBM Consultoria e com experiência internacional no setor de RPA como Suporte, já que possuo inglês fluente. Tenho projetos pessoais em NodeJS, React e Javascript integrados com bancos de dados MySQL e MongoDB. Durante meu estágio, contribuo com o desenvolvimento de uma API REST em framework Django integrado ao SQLite e a bancos de dados Oracle.
 
-Estou comprometida com o aprendizado e o autodesenvolvimento, pois a maior parte do meu conhecimento veio de estudos autodidatas na plataforma Udemy. Sou analítica, organizada e uma comunicadora articulada. Eu entendo a importância de ser interativa e gosto de entrar em contato com outras pessoas para o benefício da empresa. 
+Estou comprometida com o aprendizado e o autodesenvolvimento, pois a maior parte do meu conhecimento veio de estudos autodidatas nas plataformas Udemy e UiPath Academy. Sou analítica, organizada e uma comunicadora articulada, já que entendo a importância da interatividade para benefício da empresa.
 
-Enquanto Suporte de RPA, atuei na análise técnica de bugs utilizando UiPath Orchestrator e fórmulas avançadas de Excel, resolvi dúvidas e esclarecimentos técnicos dos stakeholders e colaborei na evolução das ferramentas de monitoramento e investigação, proprondo novos recursos e evitando desperdícios.
+Enquanto estagiária estou desenvolvendo endpoints em um framework MVC, auxilio na modelagem de tabelas e relacionamentos, consulto databases do Oracle usando queries SQL e trabalho com metodologia ágil SAFe.
 
 ## Dados pessoais
 
 **Nome:** Helena Neves
-**Nascimento:** Abril de 1994 
 **Moradia:** Rio de Janeiro, Marechal Hermes.  
 **Email:** helenaneves.br@gmail.com  
 **Telefone:** (21) 9 92581498
 
 <p><b>linkedin:</b> https://www.linkedin.com/in/hn-web-development/</p>
 <p><b>github:</b> https://github.com/helenanevesbr</p>
-<p><b>web-site:</b> http://zebrapintada.com.br/</p>
 
 ## Formação
-  - Tecnólogo em Sistemas de Computação <sub> (Agosto 2021/Agosto/2024 - UFF EAD)</sub>
+  - Tecnólogo em Sistemas de Computação <sub> (Agosto 2021/Currently - UFF EAD)</sub>
 
 ## Experiências relevantes
 
@@ -60,6 +58,8 @@ Enquanto Suporte de RPA, atuei na análise técnica de bugs utilizando UiPath Or
 **Bancos e persistências**
   - mysql ★
   - mongodb ★
+  - oracle ★
+  - sqlite ★
 
 **Linguagens**
   - nodejs (javascript) ★
@@ -68,6 +68,7 @@ Enquanto Suporte de RPA, atuei na análise técnica de bugs utilizando UiPath Or
 **Frameworks**
   - express.js ★
   - ejs ★
+  - django ★
 
 **Protocolos**
   - http ★
@@ -75,6 +76,7 @@ Enquanto Suporte de RPA, atuei na análise técnica de bugs utilizando UiPath Or
 
 **Metodologias ágeis**
   - scrum ★
+  - safe ★
 
 **Escala**  
 

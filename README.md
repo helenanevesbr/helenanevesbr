@@ -11,8 +11,8 @@ Enquanto estagiária estou desenvolvendo endpoints em um framework MVC, auxilio 
 
 ## Dados pessoais
 
-**Nome:** Helena Neves
-**Moradia:** Rio de Janeiro, Marechal Hermes.  
+**Nome:** Helena Neves  
+**Moradia:** Rio de Janeiro, Brasil  
 **Email:** helenaneves.br@gmail.com  
 **Telefone:** (21) 9 92581498
 
@@ -90,4 +90,6 @@ Enquanto estagiária estou desenvolvendo endpoints em um framework MVC, auxilio 
 
 Em 2016, entrei para UEPRO como monitora de informática. Aprendi ferramentas de software sob-demanda para ensinar a uma turma do ensino-médio. Softwares lecionados foram Dreamweaver e CorelDraw.
 
-Em 2021, iniciei minha transição de carreira para a área de sistemas de informação. Atualmente possuo uma experiência internacional trabalhando como suporte de RPA
+Em 2021, iniciei minha transição de carreira para a área de sistemas de informação. Ingressei na faculdade e tive uma experiência internacional trabalhando como suporte de RPA.
+
+Atualmente sou estagiária na IBM Consultoria desenvolvendo em Python uma API Django e atuando diretamente com o cliente para entregar valor.

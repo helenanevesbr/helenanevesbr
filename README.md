@@ -105,7 +105,7 @@ Rio de Janeiro, RJ, Brazil
 <div class="period">June 2024</div>
 <strong>O'Reilly</strong>
 
-### Languages
+## Languages
 <p class="languages">
     <b>Portuguese:</b> Native<br/>
     <b>English:</b> Fluent

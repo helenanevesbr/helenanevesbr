@@ -6,7 +6,7 @@ Resume - Helena Bueno Neves
 
 <div class="contacts">
 <b>Email:</b> helenaneves.br@gmail.com <br/>
-<b>Linkedin:</b> https://www.linkedin.com/in/hn-web-development/| 
+<b>Linkedin:</b> https://www.linkedin.com/in/hn-web-development/<br/>
 <b>Github:</b> https://github.com/helenanevesbr
 </div>
 

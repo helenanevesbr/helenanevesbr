@@ -1,95 +1,112 @@
-Currículo
+Resume - Helena Bueno Neves
 ===
+<div class="subtitle">
+<p>Software Developer with experience in Python, React, and fluent English</p>
+</div>
 
-## Resumo
+<div class="contacts">
+<b>Email:</b> helenaneves.br@gmail.com <br/>
+<b>Linkedin:</b> https://www.linkedin.com/in/hn-web-development/| 
+<b>Github:</b> https://github.com/helenanevesbr
+</div>
 
-Sou estudante no curso de Sistemas de Computação (UFF), estagiando como desenvolvedora back-end na IBM Consultoria e com experiência internacional no setor de RPA como Suporte, já que possuo inglês fluente. Tenho projetos pessoais em NodeJS, React e Javascript integrados com bancos de dados MySQL e MongoDB. Durante meu estágio, contribuo com o desenvolvimento de uma API REST em framework Django integrado ao SQLite e a bancos de dados Oracle.
+## Summary
+<div class="description">
+<p>Fullstack Intern at IBM Consulting with experience in high-impact projects, including Petrobras and global clients such as Infosys and Siemens Healthineers. Strong in system analysis and API integration in agile environments, with skills in reverse engineering, project management, and technical communication in fluent English.</p>
+<p>Leveraged back-end and front-end knowledge to optimize user experience and improve operational efficiency. Committed to delivering scalable and efficient solutions.</p>
+</div>
 
-Estou comprometida com o aprendizado e o autodesenvolvimento, pois a maior parte do meu conhecimento veio de estudos autodidatas nas plataformas Udemy e UiPath Academy. Sou analítica, organizada e uma comunicadora articulada, já que entendo a importância da interatividade para benefício da empresa.
+## Skills
+<div class="main-skills">
+<strong>Proficient in:</strong> Python, Django, Software Testing, Pytest<br/>
+<strong>Intermediate in:</strong> Javascript, NodeJS, React, SQL<br/>
+</div>
 
-Enquanto estagiária estou desenvolvendo endpoints em um framework MVC, auxilio na modelagem de tabelas e relacionamentos, consulto databases do Oracle usando queries SQL e trabalho com metodologia ágil SAFe.
+## Professional Experience
 
-## Dados pessoais
+### Fullstack Internship
+<hr/>
+<div class="company">IBM/Petrobras - Remote</div>
+<div class="period">May 2023 – Present</div>
+<p class="chores-title"><b>Main Responsibilities:</b></p>
+<p class="chores">
+  
+- Restructured API endpoints to add new functionalities, maintaining system integrity. This involved reverse engineering, database analysis, and implementation planning.
 
-**Nome:** Helena Neves  
-**Moradia:** Rio de Janeiro, Brasil  
-**Email:** helenaneves.br@gmail.com  
-**Telefone:** (21) 9 92581498
+- Implemented a table to store detailed logs of API interactions, enhancing diagnostic capabilities.
 
-<p><b>linkedin:</b> https://www.linkedin.com/in/hn-web-development/</p>
-<p><b>github:</b> https://github.com/helenanevesbr</p>
+- Coordinated the migration from a temporary SQLite database to Oracle, resulting in improved scalability and data security.
 
-## Formação
-  - Tecnólogo em Sistemas de Computação <sub> (Agosto 2021/Currently - UFF EAD)</sub>
+- Supported the Front-End team in adjustments for more intuitive navigation and clearer API interactions.
 
-## Experiências relevantes
+- Develop and optimize REST API endpoints.
 
-### UEPRO <sub>(2016 - 2017)</sub>
- Monitora de informática de uma turma de ensino médio. Aprendi ferramentas de software sob demanda para ensinar.
+- Actively participate in SAFe/Scrum ceremonies, enhancing team collaboration and efficiency.
 
-### Freelance <sub>(Maio 2021 - Outubro 2021)</sub>
- Lecionava inglês por aulas particulares online e compartilhava com alunos um método de autodidatismo para aprendizadem de idiomas.
+- Document API contracts through Swagger.
 
-### Infosys <sub>(2021 - Presente)</sub>  
- Atua na área de suporte, contribuindo para manutenção e monitoramento de processos de automação.
+- Write unit tests to ensure software quality and reliability.
 
-## Certificações e treinamentos
- 
-### Curso Completo do Desenvolvedor NodeJS e MongoDB
- - Criei meu primeiro website com o NodeJS integrado com o banco de dados MySQL 
- - Desenvolvi uma aplicação em real-time com Socket.IO 
- - Integrei uma aplicação NodeJS com o banco de dados MongoDB
- - Projetei uma API RESTful em conjunto com uma aplicação web cliente baseada no Instagram.
- 
-### Gestão Ágil com Scrum
- - Analisei os papéis e responsabilidades do Product Owner, Scrum Master e Equipe Scrum
- - Me familiarizei com os 6 princípios do Scrum
- - Aprendi sobre as fases de um fluxo Scrum
+- Conduct requirements gathering and data modeling to support more detailed sprint stories.
 
-### React 18 Tutorial and Projects Course (2023)
- - Desenvolvi minha primeira aplicação com React inspirada na Amazon
- - Refactorei um aplicação hard-coded para um conteúdo dinâmico
+</p>
+<p class="tecnologies-and-tools">
+    <b>Key Technologies and Tools:</b> Python, Pytest, Django, Swagger, SQL, OracleDB, PostGres, React, NextJS, Typescript, Scrum, SAFe, Jira, Miro, GitLab
+</p>
 
-## Conhecimentos
+### RPA Support
+<hr/>
+<div class="company">IAS/InfoSys/Siemens Healthineers - Remote</div>
+<div class="period">October 2021 – May 2023</div>
+<p class="chores-title"><b>Main Responsibilities:</b></p>
+<div class="chores">
+  
+- Focal point for client relationships, answering questions and assisting with technical issues in real time in Portuguese or English.
 
-**Controle de versão**
-  - git ★
+- Monitoring 43 automation processes.
 
-**Bancos e persistências**
-  - mysql ★
-  - mongodb ★
-  - oracle ★
-  - sqlite ★
+- Building spreadsheets and analyzing data.
 
-**Linguagens**
-  - nodejs (javascript) ★
-  - python ★
+- Preparing and maintaining 42 virtual machines and dependencies.
 
-**Frameworks**
-  - express.js ★
-  - ejs ★
-  - django ★
+</div>
+<p class="tecnologies-and-tools">
+    <b>Key Technologies and Tools:</b> Excel, PowerPoint, Teams, UiPath Orchestrator, Virtual Machines, spoken and written English
+</p>
 
-**Protocolos**
-  - http ★
-  - socket.io ★
+### IT Instructor
+<hr/>
+<div class="company">UEPRO - Remote</div>
+<div class="period">August 2016 – January 2017</div>
+<p class="chores-title"><b>Main Responsibilities:</b></p>
+<div class="chores">
+  
+- Organized content based on requested topics.
 
-**Metodologias ágeis**
-  - scrum ★
-  - safe ★
+- Researched and applied teaching methods.
 
-**Escala**  
+- Taught Dreamweaver and CorelDraw tools.
 
-★ sei fazer as operações básicas  
-★★ sei operações um pouco mais complexas  
-★★★ sei fazer a maior parte das operações  
-★★★★ conheço a maioria dos recursos disponíveis  
-★★★★★ conheço o código, posso construir módulos se necessário  
+</div>
+<p class="tecnologies-and-tools">
+    <b>Key Technologies and Tools:</b> CorelDraw, Dreamweaver, PowerPoint
+</p>
 
-## Breve história profissional
+## Education
+### Computer Systems
+<hr/>
+<div class="period">August 2021 - December 2025</div> 
+<strong>Universidade Federal Fluminense - UFF</strong>
+Rio de Janeiro, RJ, Brazil
 
-Em 2016, entrei para UEPRO como monitora de informática. Aprendi ferramentas de software sob-demanda para ensinar a uma turma do ensino-médio. Softwares lecionados foram Dreamweaver e CorelDraw.
+## Certificates
+### Introduction to Django
+<hr/>
+<div class="period">June 2024</div>
+<strong>O'Reilly</strong>
 
-Em 2021, iniciei minha transição de carreira para a área de sistemas de informação. Ingressei na faculdade e tive uma experiência internacional trabalhando como suporte de RPA.
-
-Atualmente sou estagiária na IBM Consultoria desenvolvendo em Python uma API Django e atuando diretamente com o cliente para entregar valor.
+### Languages
+<p class="languages">
+    <b>Portuguese:</b> Native<br/>
+    <b>English:</b> Fluent
+</p>

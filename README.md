@@ -5,8 +5,9 @@ Resume - Helena Bueno Neves
 </div>
 
 <div class="contacts">
+<b>Location:</b> Brasil |
 <b>Email:</b> helenaneves.br@gmail.com <br/>
-<b>Linkedin:</b> https://www.linkedin.com/in/hn-web-development/<br/>
+<b>Linkedin:</b> https://www.linkedin.com/in/hn-web-development/ 
 <b>Github:</b> https://github.com/helenanevesbr
 </div>
 
@@ -15,18 +16,20 @@ Resume - Helena Bueno Neves
 <p>Fullstack Intern at IBM Consulting with experience in high-impact projects, including Petrobras and global clients such as Infosys and Siemens Healthineers. Strong in system analysis and API integration in agile environments, with skills in reverse engineering, project management, and technical communication in fluent English.</p>
 <p>Leveraged back-end and front-end knowledge to optimize user experience and improve operational efficiency. Committed to delivering scalable and efficient solutions.</p>
 </div>
+<br>
 
 ## Skills
 <div class="main-skills">
 <strong>Proficient in:</strong> Python, Django, Software Testing, Pytest<br/>
-<strong>Intermediate in:</strong> Javascript, NodeJS, React, SQL<br/>
+<strong>Intermediate in:</strong> Javascript, NodeJS, React, SQL, Jest, Java<br/>
 </div>
+<br>
 
 ## Professional Experience
 
 ### Fullstack Internship
 <hr/>
-<div class="company">IBM/Petrobras - Remote</div>
+<div class="company">IBM / Petrobras - Remote</div>
 <div class="period">May 2023 – Present</div>
 <p class="chores-title"><b>Main Responsibilities:</b></p>
 <p class="chores">
@@ -51,12 +54,12 @@ Resume - Helena Bueno Neves
 
 </p>
 <p class="tecnologies-and-tools">
-    <b>Key Technologies and Tools:</b> Python, Pytest, Django, Swagger, SQL, OracleDB, PostGres, React, NextJS, Typescript, Scrum, SAFe, Jira, Miro, GitLab
+    <b>Key Technologies and Tools:</b> Python, Pytest, Django, Swagger, Jest, SQL, OracleDB, PostGres, React, NextJS, Typescript, SonarQube, AWS, Scrum, SAFe, Jira, Miro, GitLab
 </p>
 
 ### RPA Support
 <hr/>
-<div class="company">IAS/InfoSys/Siemens Healthineers - Remote</div>
+<div class="company">IAS / InfoSys / Siemens Healthineers - Remote</div>
 <div class="period">October 2021 – May 2023</div>
 <p class="chores-title"><b>Main Responsibilities:</b></p>
 <div class="chores">
@@ -76,7 +79,7 @@ Resume - Helena Bueno Neves
 
 ### IT Instructor
 <hr/>
-<div class="company">UEPRO - Remote</div>
+<div class="company">UEPRO - Rio de Janeiro, RJ</div>
 <div class="period">August 2016 – January 2017</div>
 <p class="chores-title"><b>Main Responsibilities:</b></p>
 <div class="chores">
@@ -91,6 +94,7 @@ Resume - Helena Bueno Neves
 <p class="tecnologies-and-tools">
     <b>Key Technologies and Tools:</b> CorelDraw, Dreamweaver, PowerPoint
 </p>
+<br>
 
 ## Education
 ### Computer Systems
@@ -98,12 +102,31 @@ Resume - Helena Bueno Neves
 <div class="period">August 2021 - December 2025</div> 
 <strong>Universidade Federal Fluminense - UFF</strong>
 Rio de Janeiro, RJ, Brazil
+<br>
+<br>
 
-## Certificates
+## Certificates and courses
+
+### Core Java Made Easy
+<hr/>
+<div class="period">Dezembro 2023</div>
+<strong>Udemy</strong>
+
+### Introduction to Cloud 101
+<hr/>
+<div class="period">Outubro 2024</div>
+<strong>Amazon Web Services (AWS)</strong>
+
 ### Introduction to Django
 <hr/>
 <div class="period">June 2024</div>
 <strong>O'Reilly</strong>
+
+### ReactJS - The Beginner Masterclass
+<hr/>
+<div class="period">Agosto 2024</div>
+<strong>O'Reilly</strong>
+<br>
 
 ## Languages
 <p class="languages">

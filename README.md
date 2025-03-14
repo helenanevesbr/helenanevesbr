@@ -13,7 +13,7 @@ Resume - Helena Bueno Neves
 
 ## Summary
 <div class="description">
-<p>Fullstack Intern at IBM Consulting with experience in high-impact projects, including Petrobras and global clients such as Infosys and Siemens Healthineers. Strong in system analysis and API integration in agile environments, with skills in reverse engineering, project management, and technical communication in fluent English.</p>
+<p>Fullstack System Analyst at IBM Consulting with experience in high-impact projects, including Petrobras and global clients such as Infosys and Siemens Healthineers. Strong in system analysis and API integration in agile environments, with skills in reverse engineering, project management, and technical communication in fluent English.</p>
 <p>Leveraged back-end and front-end knowledge to optimize user experience and improve operational efficiency. Committed to delivering scalable and efficient solutions.</p>
 </div>
 <br>
@@ -27,7 +27,7 @@ Resume - Helena Bueno Neves
 
 ## Professional Experience
 
-### Fullstack Internship
+### Full Stack System Analyst
 <hr/>
 <div class="company">IBM / Petrobras - Remote</div>
 <div class="period">May 2023 – Present</div>
